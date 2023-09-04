@@ -40,10 +40,3 @@ For more information on how to configure a service in Choreo, refer [Manage Conf
 2. Mount the file contents of `configs/initial_data.json` in the path specified in step 1.
 
 See [initial_data.json](configs/initial_data.json) for a sample file.
-
-
-adafafffa
-sasasas
-sasas
-sasas
-asasasas
