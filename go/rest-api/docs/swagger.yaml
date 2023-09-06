@@ -16,6 +16,7 @@ definitions:
         - reading
         - read
         example: to_read
+        type: string
       title:
         example: The Lord of the Rings
         type: string
